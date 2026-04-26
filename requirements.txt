@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+py-tgcalls==1.2.7
+yt-dlp
+youtube-search-python
+spotipy
+Pillow
+aiohttp
+aiofiles
